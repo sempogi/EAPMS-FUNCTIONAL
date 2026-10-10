@@ -224,3 +224,11 @@ offline-first
 qr-code
 role-based-access-control
 ```
+## Download
+
+Download the latest available Android build from Google Drive:
+
+- [Download FI EAPMS for Android](https://drive.google.com/file/d/1fmtra-gx9PqcB2JvLJNBUjpYMXg_k5wQ/view?usp=sharing)
+
+> The linked build is provided for controlled testing. Verify the source, version, and release notes before installation.
+
