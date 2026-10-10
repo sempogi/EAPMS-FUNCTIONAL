@@ -228,7 +228,7 @@ role-based-access-control
 
 Download the latest available Android build from Google Drive:
 
-- [Download FI EAPMS for Android](https://drive.google.com/file/d/1TqV2pEgVo7wxLvrtoxB60kI-HyVKAZJ_/view?usp=sharing)
+- [Download FI EAPMS for Android](https://drive.google.com/drive/folders/1bI1I7mPdlBnv81Zp77kG_hidVaY6Gz3K?usp=sharing)
 
 > The linked build is provided for controlled testing. Verify the source, version, and release notes before installation.
 
